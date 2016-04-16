@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_id": "heymessageapp",
+    "project_number": "72617372572",
+    "name": "HeyMessageAPP"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72617372572:android:9b4bfd8690c2fa12",
+        "client_id": "android:hey.devgene.com",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "hey.devgene.com",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72617372572-gahcflk2d2j83c7tbdpsmfio28atlm4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hey.devgene.com",
+            "certificate_hash": "69ED44A2349ED191A3C0DD2D1001B108C591F752"
+          }
+        },
+        {
+          "client_id": "72617372572-5gr8r4lbost618ufml5hesvq31fbl241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-73403587-2"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72617372572-5gr8r4lbost618ufml5hesvq31fbl241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
